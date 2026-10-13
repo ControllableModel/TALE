@@ -123,11 +123,12 @@ python -u TALE-PT.py --eval --strategy dpo --model_name Llama-3.1-8B-Instruct --
 ## 🤝6. Cite our work
 
 ```tex
-@article{han2024token,  
-  title={Token-Budget-Aware LLM Reasoning},  
-  author={Han, Tingxu and Wang, Zhenting and Fang, Chunrong and Zhao, Shiyu and Ma, Shiqing and Chen, Zhenyu},  
-  journal={arXiv preprint arXiv:2412.18547},  
-  year={2024}  
+@inproceedings{han2025token,
+  title={Token-budget-aware llm reasoning},
+  author={Han, Tingxu and Wang, Zhenting and Fang, Chunrong and Zhao, Shiyu and Ma, Shiqing and Chen, Zhenyu},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2025},
+  pages={24842--24855},
+  year={2025}
 }
 ```
 
