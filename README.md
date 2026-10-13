@@ -1,4 +1,4 @@
-# <center> README </center>
+# <center> TALE </center>
 
 ## News
 [2025-05] [“Token-Budget-Aware LLM Reasoning”](https://arxiv.org/pdf/2412.18547) has been accepted to ACL 2025 (Findings)!  
